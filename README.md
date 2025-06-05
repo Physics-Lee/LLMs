@@ -61,6 +61,12 @@ https://ragflow.io/
 https://anythingllm.com/
 
 
+# Coding
+
+https://www.cursor.com/
+
+https://github.com/features/copilot
+
 
 # Audio
 
@@ -85,6 +91,15 @@ https://www.aippt.cn/
 https://www.tongyi.com/
 
 
+# Info
+
+https://paperswithcode.com/sota
+
+https://www.kaggle.com/
+
+https://huggingface.co/models
+
+https://lmarena.ai/
 
 # Other
 
@@ -95,3 +110,5 @@ https://notebooklm.google.com/
 # Similar Work to This File
 
 https://www.banpie.info/tool
+
+https://github.com/latentcat/latentbox
