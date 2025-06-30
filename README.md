@@ -61,11 +61,13 @@ https://ragflow.io/
 https://anythingllm.com/
 
 
+
 # Coding
 
 https://www.cursor.com/
 
 https://github.com/features/copilot
+
 
 
 # Audio
@@ -82,13 +84,17 @@ https://sora.com/
 
 
 
-# Slide
+# Slides
 
 https://gamma.app/
 
 https://www.aippt.cn/
 
 https://www.tongyi.com/
+
+
+
+# Embodied AI / World Model
 
 
 # Info
@@ -100,6 +106,8 @@ https://www.kaggle.com/
 https://huggingface.co/models
 
 https://lmarena.ai/
+
+
 
 # Other
 
